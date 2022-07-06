@@ -6,7 +6,7 @@ libjpeg compile:
 official : http://www.ijg.org/
 
 
-1. donwload the latest 'libjpeg' version
+1. donwload the  `jpegsr6b.zip` of 'libjpeg' version
 2. open your "VS 2017的开发人员命令提示符"
 3. change dir to decompression dir of libjpeg
 4. copy the 'win32.mak' to dir
